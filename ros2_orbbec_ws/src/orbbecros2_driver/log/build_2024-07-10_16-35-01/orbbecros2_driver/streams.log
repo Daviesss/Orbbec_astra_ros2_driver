@@ -1,0 +1,36 @@
+[1.011s] Invoking command in '/home/robothrone/new_robogpt/orbbecros2_driver': PYTHONPATH=/home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/prefix_override:/home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/orbbecros2_driver build --build-base /home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/build install --record /home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/install.log --install-scripts $base/lib/orbbecros2_driver --single-version-externally-managed
+[1.244s] /home/robothrone/.local/lib/python3.8/site-packages/setuptools/dist.py:775: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.244s]   warnings.warn(
+[1.325s] running egg_info
+[1.325s] creating build/orbbecros2_driver/orbbecros2_driver.egg-info
+[1.341s] writing build/orbbecros2_driver/orbbecros2_driver.egg-info/PKG-INFO
+[1.341s] writing dependency_links to build/orbbecros2_driver/orbbecros2_driver.egg-info/dependency_links.txt
+[1.341s] writing requirements to build/orbbecros2_driver/orbbecros2_driver.egg-info/requires.txt
+[1.341s] writing top-level names to build/orbbecros2_driver/orbbecros2_driver.egg-info/top_level.txt
+[1.351s] writing manifest file 'build/orbbecros2_driver/orbbecros2_driver.egg-info/SOURCES.txt'
+[1.377s] reading manifest file 'build/orbbecros2_driver/orbbecros2_driver.egg-info/SOURCES.txt'
+[1.377s] writing manifest file 'build/orbbecros2_driver/orbbecros2_driver.egg-info/SOURCES.txt'
+[1.378s] running build
+[1.378s] running build_py
+[1.378s] creating /home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/build
+[1.378s] creating /home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/build/lib
+[1.378s] creating /home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/build/lib/orbbecros2_driver
+[1.378s] copying orbbecros2_driver/__init__.py -> /home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/build/lib/orbbecros2_driver
+[1.378s] running install
+[1.378s] /home/robothrone/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.378s]   warnings.warn(
+[1.383s] running install_lib
+[1.397s] creating /home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/lib/python3.8/site-packages/orbbecros2_driver
+[1.397s] copying /home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/build/lib/orbbecros2_driver/__init__.py -> /home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/lib/python3.8/site-packages/orbbecros2_driver
+[1.397s] byte-compiling /home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/lib/python3.8/site-packages/orbbecros2_driver/__init__.py to __init__.cpython-38.pyc
+[1.397s] running install_data
+[1.410s] creating /home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/share/ament_index
+[1.411s] creating /home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/share/ament_index/resource_index
+[1.411s] creating /home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/share/ament_index/resource_index/packages
+[1.411s] copying resource/orbbecros2_driver -> /home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/share/ament_index/resource_index/packages
+[1.411s] copying package.xml -> /home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/share/orbbecros2_driver
+[1.411s] running install_egg_info
+[1.425s] Copying build/orbbecros2_driver/orbbecros2_driver.egg-info to /home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/lib/python3.8/site-packages/orbbecros2_driver-0.0.0-py3.8.egg-info
+[1.425s] running install_scripts
+[1.485s] writing list of installed files to '/home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/install.log'
+[1.516s] Invoked command in '/home/robothrone/new_robogpt/orbbecros2_driver' returned '0': PYTHONPATH=/home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/prefix_override:/home/robothrone/new_robogpt/orbbecros2_driver/install/orbbecros2_driver/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/orbbecros2_driver build --build-base /home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/build install --record /home/robothrone/new_robogpt/orbbecros2_driver/build/orbbecros2_driver/install.log --install-scripts $base/lib/orbbecros2_driver --single-version-externally-managed

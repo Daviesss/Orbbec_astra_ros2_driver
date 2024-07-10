@@ -1,0 +1,2 @@
+[console_scripts]
+orbbec_driver_node = orbbecros2_driver.ros2_orbbec_driver:main

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: orbbecros2-driver
+Version: 1.0.0
+Summary: A ROS 2 driver/wrapper package for Orbbec Astra Camera
+Maintainer: Davies Iyanuoluwa Ogunsina
+Maintainer-email: Davisogunsina@gmail.com
+License: MIT License

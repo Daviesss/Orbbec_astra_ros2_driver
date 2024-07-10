@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/orbbecros2_driver/orbbecros2_driver.egg-info
+writing ../../build/orbbecros2_driver/orbbecros2_driver.egg-info/PKG-INFO
+writing dependency_links to ../../build/orbbecros2_driver/orbbecros2_driver.egg-info/dependency_links.txt
+writing entry points to ../../build/orbbecros2_driver/orbbecros2_driver.egg-info/entry_points.txt
+writing requirements to ../../build/orbbecros2_driver/orbbecros2_driver.egg-info/requires.txt
+writing top-level names to ../../build/orbbecros2_driver/orbbecros2_driver.egg-info/top_level.txt
+writing manifest file '../../build/orbbecros2_driver/orbbecros2_driver.egg-info/SOURCES.txt'
+reading manifest file '../../build/orbbecros2_driver/orbbecros2_driver.egg-info/SOURCES.txt'
+writing manifest file '../../build/orbbecros2_driver/orbbecros2_driver.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/robothrone/new_robogpt/ros2_orbbec_ws/build/orbbecros2_driver/build
+creating /home/robothrone/new_robogpt/ros2_orbbec_ws/build/orbbecros2_driver/build/lib
+creating /home/robothrone/new_robogpt/ros2_orbbec_ws/build/orbbecros2_driver/build/lib/orbbecros2_driver
+copying orbbecros2_driver/ros2_orbbec_driver.py -> /home/robothrone/new_robogpt/ros2_orbbec_ws/build/orbbecros2_driver/build/lib/orbbecros2_driver
+copying orbbecros2_driver/__init__.py -> /home/robothrone/new_robogpt/ros2_orbbec_ws/build/orbbecros2_driver/build/lib/orbbecros2_driver
+running install
+running install_lib
+creating /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/lib/python3.8/site-packages/orbbecros2_driver
+copying /home/robothrone/new_robogpt/ros2_orbbec_ws/build/orbbecros2_driver/build/lib/orbbecros2_driver/ros2_orbbec_driver.py -> /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/lib/python3.8/site-packages/orbbecros2_driver
+copying /home/robothrone/new_robogpt/ros2_orbbec_ws/build/orbbecros2_driver/build/lib/orbbecros2_driver/__init__.py -> /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/lib/python3.8/site-packages/orbbecros2_driver
+byte-compiling /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/lib/python3.8/site-packages/orbbecros2_driver/ros2_orbbec_driver.py to ros2_orbbec_driver.cpython-38.pyc
+byte-compiling /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/lib/python3.8/site-packages/orbbecros2_driver/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/share/ament_index
+creating /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/share/ament_index/resource_index
+creating /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/share/ament_index/resource_index/packages
+copying resource/orbbecros2_driver -> /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/share/ament_index/resource_index/packages
+copying package.xml -> /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/share/orbbecros2_driver
+running install_egg_info
+Copying ../../build/orbbecros2_driver/orbbecros2_driver.egg-info to /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/lib/python3.8/site-packages/orbbecros2_driver-1.0.0-py3.8.egg-info
+running install_scripts
+Installing orbbec_driver_node script to /home/robothrone/new_robogpt/ros2_orbbec_ws/install/orbbecros2_driver/lib/orbbecros2_driver
+writing list of installed files to '/home/robothrone/new_robogpt/ros2_orbbec_ws/build/orbbecros2_driver/install.log'

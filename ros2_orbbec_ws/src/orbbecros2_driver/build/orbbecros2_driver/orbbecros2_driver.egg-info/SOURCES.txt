@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+build/orbbecros2_driver/orbbecros2_driver.egg-info/PKG-INFO
+build/orbbecros2_driver/orbbecros2_driver.egg-info/SOURCES.txt
+build/orbbecros2_driver/orbbecros2_driver.egg-info/dependency_links.txt
+build/orbbecros2_driver/orbbecros2_driver.egg-info/requires.txt
+build/orbbecros2_driver/orbbecros2_driver.egg-info/top_level.txt
+build/orbbecros2_driver/orbbecros2_driver.egg-info/zip-safe
+orbbecros2_driver/__init__.py
+resource/orbbecros2_driver
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
